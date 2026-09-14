@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="gnss/gnss.vcxproj" Id="b6004276-184d-48b0-b850-b0652e5d5850" />
+</Solution>

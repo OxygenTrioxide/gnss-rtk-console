@@ -1,0 +1,27 @@
+# ===== 构建输出 =====
+x64/
+.vs/
+*.obj
+*.pdb
+*.exe
+!**/Nav.exe
+
+# ===== 前端 =====
+node_modules/
+dist/
+*.asar
+.asar-stage.app.asar
+
+# ===== 打包后的应用 =====
+gnss-gui/release/
+gnss-gui/electron-dist/
+gnss-gui/*.zip
+
+# ===== 本地数据与临时文件 =====
+rtk-record/
+_tmp/
+课件/
+gnss-runs/
+gnss-gui-runs/
+*.bin
+*.log
