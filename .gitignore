@@ -24,5 +24,6 @@ _tmp/
 课件/
 gnss-runs/
 gnss-gui-runs/
+NVIDIA Corporation/
 *.bin
 *.log
