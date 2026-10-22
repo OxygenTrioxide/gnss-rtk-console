@@ -11,6 +11,7 @@ node_modules/
 dist/
 *.asar
 .asar-stage.app.asar
+gnss-gui/.tmp/
 
 # ===== 打包后的应用 =====
 gnss-gui/release/
